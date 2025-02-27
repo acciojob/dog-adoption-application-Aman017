@@ -50,7 +50,7 @@ select {
     margin-right: 10px;
 }
 
-button {
+.button {
     width: 100%;
     background: #007BFF;
     color: white;
@@ -61,6 +61,6 @@ button {
     margin-top: 15px;
 }
 
-button:hover {
+.button:hover {
     background: #0056b3;
 }
